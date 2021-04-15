@@ -1,0 +1,30 @@
+body{
+    margin:0;
+}
+ #content {
+        color: #F3F9D2;
+        background-color: indigo;
+        text-align: center;
+        background-image: url("restaurant-meal-thinkstock-promo.png");
+        background-position: center;
+        background-size: cover;
+       overflow: hidden;
+        height: 90vh;
+        margin: 0;
+      }
+#nav{
+    background-color: midnightblue;
+    margin: 0;
+    padding-top: 1rem;
+}
+  ul{
+          display: flex;
+          list-style-type: none;
+          
+          
+          align-items: center;
+
+      }
+    li{
+        padding: 1rem;
+    }
